@@ -162,6 +162,7 @@ brew cask install --appdir="/Applications" teamviewer
 brew cask install --appdir="/Applications" github
 brew cask install --appdir="/Applications" osxfuse
 brew cask install --appdir="/Applications" cryptomator
+brew cask install --appdir="/Applications" joplin
 
 # Install Docker, which requires virtualbox
 brew install docker
