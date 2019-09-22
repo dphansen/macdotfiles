@@ -163,6 +163,7 @@ brew cask install --appdir="/Applications" github
 brew cask install --appdir="/Applications" osxfuse
 brew cask install --appdir="/Applications" cryptomator
 brew cask install --appdir="/Applications" joplin
+brew cask install --appdir="/Applications" zotero
 
 # Install Docker, which requires virtualbox
 brew install docker
