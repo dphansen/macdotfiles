@@ -165,7 +165,8 @@ brew cask install --appdir="/Applications" cryptomator
 #brew cask install --appdir="/Applications" joplin
 #brew cask install --appdir="/Applications" zotero
 brew cask install --appdir="/Applications" protonvpn
-
+brew cask install --appdir="/Applications" grammarly
+brew cask install --appdir="/Applications" prowritingaid
 
 # Install Docker, which requires virtualbox
 #brew install docker
