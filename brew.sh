@@ -167,6 +167,7 @@ brew cask install --appdir="/Applications" cryptomator
 brew cask install --appdir="/Applications" protonvpn
 brew cask install --appdir="/Applications" grammarly
 brew cask install --appdir="/Applications" prowritingaid
+brew cask install --appdir="/Applications" istat-menus
 
 # Install Docker, which requires virtualbox
 #brew install docker
