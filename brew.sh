@@ -107,6 +107,7 @@ brew install ssh-copy-id
 brew install tree
 brew install vbindiff
 brew install zopfli
+brew install rsync
 
 # Install Python
 brew install python
@@ -168,6 +169,7 @@ brew cask install --appdir="/Applications" protonvpn
 brew cask install --appdir="/Applications" grammarly
 brew cask install --appdir="/Applications" prowritingaid
 brew cask install --appdir="/Applications" istat-menus
+brew cask install --appdir="/Applications" rsyncosx
 
 # Install Docker, which requires virtualbox
 #brew install docker
