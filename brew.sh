@@ -170,6 +170,7 @@ brew cask install --appdir="/Applications" grammarly
 brew cask install --appdir="/Applications" prowritingaid
 brew cask install --appdir="/Applications" istat-menus
 brew cask install --appdir="/Applications" rsyncosx
+brew cask install --appdir="/Applications" post-haste
 
 # Install Docker, which requires virtualbox
 #brew install docker
