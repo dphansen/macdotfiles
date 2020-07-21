@@ -172,6 +172,7 @@ brew cask install --appdir="/Applications" istat-menus
 brew cask install --appdir="/Applications" rsyncosx
 brew cask install --appdir="/Applications" macs-fan-control
 brew cask install --appdir="/Applications" caffeine
+brew cask install --appdir="/Applications" borgbackup
 
 # Install Docker, which requires virtualbox
 #brew install docker
