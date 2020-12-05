@@ -108,6 +108,7 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 brew install rsync
+brew install timemachineeditor
 
 # Install Python
 brew install python
